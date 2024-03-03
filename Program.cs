@@ -37,5 +37,9 @@
                 i++;
             }
         }
+        static void EscribeMatrices(int[,] matriz)
+        {
+
+        }
     }
 }
