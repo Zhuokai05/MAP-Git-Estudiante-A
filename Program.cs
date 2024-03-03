@@ -39,7 +39,10 @@
         }
         static void EscribeMatrices(int[,] matriz)
         {
-
+            for (int i = 0; i < 1000; i++) 
+            {
+                
+            }
         }
     }
 }
